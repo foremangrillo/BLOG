@@ -1,0 +1,78 @@
+o seila
+
+#####JOGOS
+
+Varios falando que fodam em jogos, porem creio que falta somente
+uma visao. Como utilizar, faca analise combinatoria
+
+
+Analise combinatoria
+
+A primeira coisa que tem que estudar é o fatorial e um numero sendo 
+multiplicado pelos seus anteriores, é um principio de contagem.
+
+depois voce tem as tecnicas com o objetivo de encontrar os arranjos ou
+combinacoes ou permutacao. O arranjo tem ordem é muito utilizada por
+exemplo: esporte, ou seja tendo um numero de ganhadores e premiacao quantos
+arranjos tem, permutacao nada mais que é a quantidade possibilidades versus
+outro numero, e a combinado é um arranjo onde nao importa a ordem
+
+FATORIAL
+6! = 6  x 5 x 4 x 3 x2 x1 = 720
+
+ARRANJO SIMPLES
+
+formula= n!/ ( n! - n!) =
+
+N! numero de eventos
+
+K!!! é o agrupamento
+
+
+exemplo: senhas voce tem 10 algarismos , 0 ate 9, vamos dizer que a senha
+tenha no maximo 4 numeros. como proceder? o arranjo simples nao pode se repetir o algarismo
+
+formula = 10! / ( 10! - 4! ) =  10 x 9 x 8 x 7 = 5.040 possibilidades
+
+o que é isto?
+
+vou fazerr menor
+
+exemplo com 4 algarismos de no maximo 2 numeros.
+formula 4! / ( 4! - 2! ) = 4 x 3 = 12 combinacoes
+
+o que é isso?
+
+1,2 1,3 1,4
+2,1 2,3 2,4
+3,1 3,2 3,4
+4,1 4,2 4,3 
+
+######### ARRANJO COMPLETO
+O mesmo podendo repetir seria isso
+ n     4
+A  = 10  = 10.000 combinacoes
+ p
+
+
+## COMBINACAO simples
+
+A ordem nao importa nem pode repetir. SEnha não e seria resolvido com
+combinacao, pois ele nao considera repeticao nem a ordem.
+
+voce vai comprar 3 camisas de 2 estampas diferentes, sao quantas possibilidades?
+
+  3!( 2! x ( 3! / 2!) = 3 x 2 = 6 possibilidades
+
+
+Cara voce joga sei-la cartas, depende do jogo contar as que saem,
+depende das regras, voce pode usar caso seja o mesmo naipe de finalizacao
+usar uma combincao, mais probalidade. exemplo voce chegou no final do jogo e finaliza no naipe x e voce contou que
+sobram 3 desse naipe e voce tem 2, qual a chance de ganhar 2 em 3
+200 / 3 = 66,6 % talvez voce possa fazer alguma combinacao simples
+depende do que deseja, seria algo igual dado,
+
+
+
+
+
