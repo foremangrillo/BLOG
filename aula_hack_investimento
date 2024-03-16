@@ -1,0 +1,358 @@
+AUlA HACK INVESTIMETNO INST FINAL DO An0
+------------------------------------------------------------------
+AULA SIMPLES DO DIA
+
+O BANCO FUNCAO PRINCIPAL EMPRESTIMO
+
+COMO ELE CONSEGUE EMPRESTAR? ATRAVES DE OUTROS
+
+INVESTIMENTOS, POUPANCA, RENDA FIXA, MAS COMO?
+
+ELE RETORNA UM VALOR DENTRO DE X TEMPO, VOCE GANHA
+POREM DENTRO DE X TEMPO< MAIOR QUE O EMPRESTADO
+------------------------------------------------------------------
+BEM AMPLA ESTA VISAO, TALVEZ RODAR NO MUNDO TODO, CURSO HERE
+------------------------------------------------------------------
+O INVESTIMENTO
+
+ELE POSSUI 
+
+* CAPITAL
+* JUROS
+* TEMPO
+
+
+O QUE VOCE PODE ALTERAR?
+
+   CAPITAL
+
+         TEMPO
+
+            TALVES TER OU NAO IMPOSTO, PODE ALTERAR VALE
+                OU NAO FAZER
+O JUROS O MERCADO DETERMINADA, EXEMPLO SELIC A CADA 45 DIAS.
+
+
+__________________________________________________________________
+
+CAPITAL
+
+
+VOCE QUE DETERMINA, PODE SER COLOCADO VALOR DESDE O COMECO
+
+OU A CADA x TEMPO IR COMPLETANDO.
+
+
+IMPORTANTE, SABER COMO É FEITO O RENDIMENTO ANUAL, MENSAL, PORQUE
+DEPENDENDO DO HACK FEITO PODE SER DENTRO DESDE ITEM< PRINCPIPALMENTE ANUAL, 
+VOCE PEGAR UM VALOR EMPRESTADO MESMO PAGANDO ALGUM JUROS E SAIR 
+GANHANDO< EXEMPLO< DEPENDE DA DISPOSICAO DE PAGAR EM TEMPO MENOR 
+DENTRO DO ANUAL
+
+__________________________________________________________________
+
+JUROS
+
+JÁ FALEI O MERCADO
+
+__________________________________________________________________
+
+TEMPO
+
+
+O TEMPO VARIA, PRINCIPALEMNTE DE INSTITUICAO PARA INSTITUICAO
+POREM COSTUMA SER O 12 24 36 60 exite em meses 6 meses
+
+__________________________________________________________________
+
+INVESTIMENTO
+
+PRE
+PODE SER PRÉ-FIXADO OU SEJA ACORDADO NO MOMENTO 
+
+
+PÓS 
+NO FINAL VAI SABER A RENDA DO INVESTIMENTO
+
+
+------------------------------------------------------------------
+
+A MATEMATICA
+
+*JUROS SIMPLES
+*JUROS COMPOSTOS
+
+NAO VOU COLOCAR COM A INFLAÇAO O CÁLCULO
+
+JUROS COMPOSTOS
+  valor x ( 1 + juros)^ periodo
+
+período pode ser mes ano depende da aplicacao
+
+
+VAMOS AO ESTUDO DE CASO
+
+30.000 no nuinvest hoje 13,08%
+
+vou fazer por 60 meses igual a 5 periodos
+
+30.000x( 1 + 0,1308)^5 = 55.468,9894446252770304
+------------------------------------------------------------------
+VOU SIMULAR PELO NUINVEST MESMO AGORA
+
+
+inicial R$30.000
+MES  R$00
+TEMPO X = 60 meses
+
+RETORNO 5 ANOS
+R$ 51.104,08
+
+Valor líquido com os impostos descontados
+Total investido: R$ 30.000,00
+Na poupança, seu dinheiro renderia: R$ 10.465,50
+No Tesouro Prefixado, seu dinheiro renderia: R$ 21.104,08
+------------------------------------------------------------------
+FAZER 30K DE OUTRA FORMA, COM CAPITAL INICIAL MENOR e PARCELAS
+POR MES
+
+
+inicial R$10.000
+MES  R334
+TEMPO X = 60 meses
+
+RETORNO 5 ANOS
+R$ R$ 43.684,96
+
+Valor líquido com os impostos descontados
+Total investido: R$ 30.040,00
+Na poupança, seu dinheiro renderia: R$ 6.751,69
+No Tesouro Prefixado, seu dinheiro renderia: R$ 13.644,96
+------------------------------------------------------------------
+
+OS HACKS
+
+#1 HACK
+
+
+EU FIZ ESTORNO
+
+PEGUEI DETERMINADO VALOR COMPREI, NAO CHEGOU, SABE TIPO 8 AMEACANDO NO PORTAO, 
+PAPEL # MESES. DEPOIS MORRE GENTE.
+
+COMPREI PARCELEI EM 10X, PAGUEI 1 MES, E O RESTANTE RECEBI. 
+
+É AS FINANCEIRAS QUE DETERMINAM O TEMPO DE PARCELAMENTO SEM JUROS
+COM JUROS, O MÀXIMO POR ENQWUANTO 10 X SEM JUROS, MERCADO PARECE
+QUE PDOE MUDAR.
+------------------------------------------------------------------
+#2 
+
+VOCE PODE PEGAR UM VALOR MESMO COM JUROS E GANHAR, É DIFICIL
+
+JÀ ACHEI NA NET  PAPO 0,99 mes 1,29% 1,50%
+
+------------------
+VAMOS AO ESTUDO DE CASO
+
+VOCE PEGA 30k faz em 13x com 1,29 mes
+
+JUROS SIMPLES
+30000 x 0,0129 = 387 x 13 = 5031
+
+----------------------------------
+
+VOU PEGAR O MEU CALCULO SEM OS TRIBUTOS
+
+30.000 no nuinvest hoje 13,08%
+
+vou fazer por 60 meses igual a 5 periodos
+
+30.000x( 1 + 0,1308)^5 = 55.468,9894446252770304
+----------------------------------------------------
+
+VOCE DIMINUI 55,468 - 5031 = 50.437
+
+AGORA VAMOS DIZER ALGUEM QUE COMECA COM 10k, segundo periodo
+mais 10k e soma , 3 mais 10k e soma, e os dois ultimos nao
+soma mais 10k somente é feito as duas ultimas contas de juros
+compostos.
+Explicacao melhor.
+10.000 x 1,1308 =11.308
+11.308 + 10.000 = 21.308 x 1,1308 = 24.095,0864
+24.095,0864 + 10.000 = 34.095,0864 x 1,1308 = 38.554,72370112
+38.554,72370112 x ( 1 + 0,1308)^2 = 49.300,2583094349216768
+
+#Resultado da conta          VALOR
+Somou 10k primeira vez)      11.308
+Somou  10k segunda vez)      24.095,0864
+Somou  10k terceira vez)     38.554,72370112
+Resultado final:             49.300,2583094349216768
+
+O VALOR VAI SER  49.300,2583094349216768
+
+
+TERMINANDO O ALEM O QUE NAO CONSEGUIRAM VER COM A @ FOTO
+
+Voce obtendo dinheiro de alugma forma, e entendendo como o inves-
+timento é executado, mensal, anual, quase liquidez, voce pode
+colocar ou obter o dinheiro(emprestimo, Defi, pegar da familia,
+estorno igual 10x sem juros e talvez tenham mais parcelas hoje em dia, comprar 
+e vender pode perder e ganahr um pouco e igual blackfraude) Observem o anual o grafico de 12 x meses
+
+MESES
+1 2 3 4 5 6 7 8 9 10 11 12
+| | | | | | | | | |  |  |
+
+ESTORNO OU OUTRA COISA QUSE 0% JUROS FEITO EM 10 X "J JUROS" JN novo emprestimo 
+
+1 2 3 4 5 6 7 8 9 10 11 12 ANO  1  2  3  4   5  6  7  8 9 10 11 12
+| | | | | | | | | |  |  |       |  |  |  |   |  |  |  | | |  |  |
+
+J J J J J J J J J J  JN JN      JN JN JN JN JN  JN JN JN
+
+
+QUASE FINAL 2 DAQUELA FOTO ESTRANHA E DOIDA
+
+CASO O INVESTIMENTO ESTEJA COM BOA RENTABILIDADE O QUE FAZER?
+PRÉ, PÓS? QUANTOS ANOS?
+
+A QUESTAO É A LIQUIDEZ? VOCE NECESSITA DE ALGO PARA ALGO? IGUAL UM
+SALÁRIO?
+
+VOCE PODE PEGAR UM INVESTIMENTO QUE RETORNE DENTRO DE X TEMPO,
+E PEGAR O VALOR E DIVIDIR PELO X TEMPO, PODE SER A DIFERENCA
+ENTRE UM INVESTIMENTO E OUTRO, O PROBLEMA VAI SER A RENTABILIDADE
+ENTRE CADA X TEMPO, 5 ANOS, E VOCE CALCULAR PARA PEGAR A RENTABILIDADE E NÂO GASTAR O TODO, 
+OU SEJA VOCE VAI COLOCAR SEMPRE O MESMO VALOR, ISSO QUE SIGNIFICA AQUELA FOTO ESTRANHA.
+
+SE VOCE FAZ UM INVESTIMENTO EM 2023 DENTRO DE 5 ANOS VOCE VAI PEGAR DEPOIS EM 2028.
+nomenclatura I investil, P PEGOU, U USAR
+
+3 4 5 6 7 8 9 30 31 32 33 34 35 36 37 38 39 40
+| | | | | | | |  |  |  |  |  |  |  |  |  |  | | | | | | | |
+I         P U U  U  U  P  U  U  U  U  P
+          I            I              I
+
+vou fazer 50000x(1 + 0,1308)5 = 92.448,315741042128384
+
+valor mesno 50K = 92.448,315741042128384 - 50k = 42.448
+
+AGORA DIVIDIR POR 4anos mais 12 meses ou seja 48 meses
+IGUAL = 884,339911271711008
+
+AGORA POR 100 k
+
+vou fazer 100.000x(1 + 0,1308)5 = 184.896,631482084256768
+valor menos 100k = 84.896,631482084256768
+
+AGORA DIVIDIR POR 4anos mais 12 meses ou seja 48 meses
+IGUAL = 1.768,679822543422016
+
+OUTRA FORMA EXEMPLO 100 K DIVIDo POR 2 ano a frente
+
+3 4 5 6 7 8 9 30 31 32 33 34 35 36 37 38 39 40
+| | | | | | | |  |  |  |  |  |  |  |  |  |  | | | | | | | |
+I I       P U U  U  U  P  U  U  U  U  P
+          I            I
+            P U  U  U  U           I              I
+            I             P
+                          I
+
+>>              <<NEO  NEW ATUALIZADO
+
+EXPLICACAO  UM POUCO MELHOR DO PORQUE ESTÁ DIVIDIDO, VOCE PODE PEGARUM EMPRESTIMO
+OU QUALQUER OUTRA RENDA E ESSE  EXTRA ESTEJA,NO OUTRO ANO OU PERÍODO, 
+OU A RENTABILIDADE NAO  SEJA INTERESSANTE DE FAZER CASO VOCE JA ESTEJA FAZENDO UM 
+INVESTIMENTO TALVEZ PRÉ-FIXADO,E NO  OUTRO PERIODO NO CASO DE SELIC A CADA 45 DIAS, OU 
+PERÍODO DA TROCADA RENTABILIDADE ESSE VALOR ESTEJA  MAIOR TALVEZ
+SEJA INTERESSANTE  FAZE OUTRA, POR  QUE NÃO PÓS FIXADA CABE VOCÊ
+ANALISAR.
+
+>>             <<
+
+POR QUE EU NAO EXPLICO DIREITO BR? È DE FORMA AMPLA< CADA
+LUGAR PODE TER O SEU NOME, POREM A FORMULA O CALCULO PODE
+SER IGUAL, O OBJETIVO È AMPLIAR A MENTE. VOCE ENCONTRA
+A FORMULA DA OUPANCA AQUI QUE MUDOU EM RELACAO A TEMPO 
+ATRAS< EM OUTRO LUGAR PODE TER OUTRO NOME, SABE COMO É,
+È SO UM BÀSICO< DE LOGICA E MATEMATICA, VOCE ENCONTRA
+MUITO DO ENSINAMENTO NO LIVRO DO RICO, E SOBRE
+CABECA NO LIVRO DO TUDO O QUE VOCE PRECISA SABER SOBRE
+ECONOMIA< SABE PSICOLOGICAMENTE È INTERESSANTE ESTAR
+NOS LOCAIS E ENTENDER AS PARADAS. VOCE SEMPRE PRESENTE
+
+##############################################################
+FIM THE END ATE SEI LA HA HA HA BITCOIN< VARIAVEL B3 R PYTHON
+##############################################################
+
+PARADA PARCE SEI LA RAPIDO AS VEZES TEM OS SEUS MOTIVOS, TEMPO
+DE DEUS. NMUITAS PARADAS ESTAO RELACIONADAS COM SABER,
+1 para 100 e 100 para !
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
