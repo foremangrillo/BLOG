@@ -14,6 +14,25 @@ so quero estar ali
 sempre ao seu lado
 
  eu sei onde ir.............
+
+ Mas amados que somos
+
+ Temos que ajudar
+ 
+ Ajudar como ele ajuda
+
+ E por isso vamos glorificar
+
+ E não existe mais ninguem
+
+ Ainda é ele
+
+ Ainda é ele
+
+ Ainda é ele
+
+ E nos temos que nos unir
+ 
  
 
 
