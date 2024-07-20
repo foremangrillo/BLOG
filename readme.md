@@ -41,4 +41,4 @@ sempre ao seu lado
 
 
 
-[![fodao](https://www.youtube.com/watch?v=bMR9qjF1J6I&pp=ygUMYXJpIGNldSBhenVs)
+[![fodao]https://i1.sndcdn.com/artworks-000527167749-vpxrk0-t500x500.jpg](https://www.youtube.com/watch?v=bMR9qjF1J6I&pp=ygUMYXJpIGNldSBhenVs)
